@@ -1,0 +1,11 @@
+.header {
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+}
+
+img {
+    min-height: 50px;
+    max-width: 100px;
+    /* background-color: transparent */
+}
