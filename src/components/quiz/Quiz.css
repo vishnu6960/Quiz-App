@@ -35,3 +35,16 @@ li>button {
     min-height: 50px;
     cursor: pointer;
 }
+
+.selected {
+    background-color: beige;
+}
+
+.correct {
+    background-color: green;
+
+}
+
+.wrong {
+    background-color: red;
+}
